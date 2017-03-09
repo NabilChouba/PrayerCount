@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>53</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+    <Find-in-Files><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><Watch><Format><struct_types/><watch_formats/></Format><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>QuickWatch</Factory></Window></Windows></PreferedWindows><Column0>253</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch><QuickWatch><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Watch</Factory></Window></Windows></PreferedWindows><Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></QuickWatch><STACK2/></Static>
+    <Windows>
+      
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4630-30229</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-4107-30238</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-25427-923</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15378-30232</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>accl</ExpandedNode><ExpandedNode>accl/Accelerometer_Application </ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd5><Tabs><Tab><Identity>TabID-14266-2824</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>uart_tx_buffer</Expression></Expression><Expression><Expression>uart_tx_rd</Expression></Expression><Expression><Expression>uart_tx_buffer[uart_tx_rd]</Expression></Expression></Expressions><TabId>1</TabId><Column0>253</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5><Wnd0><Tabs><Tab><Identity>TabID-31811-2567</Identity><TabName>Stack</TabName><Factory>STACK2</Factory><Session><ShowVariables>1</ShowVariables><ShowOffsets>1</ShowOffsets><UnitWidth>1</UnitWidth><SelectedStack>0</SelectedStack><AddressColWidth>95</AddressColWidth><StackColWidth>95</StackColWidth><SymbolColWidth>90</SymbolColWidth><ValueColWidth>60</ValueColWidth><FrameColWidth>60</FrameColWidth></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\FreeRTOS\Source\queue.c</Filename><XPos>0</XPos><YPos>514</YPos><SelStart>22335</SelStart><SelEnd>22335</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\msp430\msp430F5438\msp430F5438_hal\hal_usb.h</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>656</SelStart><SelEnd>656</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\msp430\msp430F5438\msp430f5438_hal\hal_i2c.c</Filename><XPos>0</XPos><YPos>238</YPos><SelStart>9825</SelStart><SelEnd>9825</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\FreeRTOS\Source\tasks.c</Filename><XPos>0</XPos><YPos>2413</YPos><SelStart>86188</SelStart><SelEnd>86188</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\include\BT_common.h</Filename><XPos>0</XPos><YPos>373</YPos><SelStart>13466</SelStart><SelEnd>13466</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\common\BT_os.h</Filename><XPos>0</XPos><YPos>127</YPos><SelStart>4651</SelStart><SelEnd>4651</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\appl_menu_pl.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>92</SelStart><SelEnd>92</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\sdk_config.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>2555</SelStart><SelEnd>2555</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\appl_sdk.h</Filename><XPos>0</XPos><YPos>135</YPos><SelStart>4760</SelStart><SelEnd>4760</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\msp430\msp430F5438\msp430f5438_hal\hal_usb.c</Filename><XPos>0</XPos><YPos>107</YPos><SelStart>3430</SelStart><SelEnd>3443</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\include\BT_dbase_api.h</Filename><XPos>0</XPos><YPos>418</YPos><SelStart>16498</SelStart><SelEnd>16498</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\include\BT_spp_api.h</Filename><XPos>0</XPos><YPos>191</YPos><SelStart>5881</SelStart><SelEnd>5881</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\appl_spp.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>81</SelStart><SelEnd>81</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\spp\accl_arch\msp430\sdk_pl.h</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>3775</SelStart><SelEnd>3794</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\FreeRTOS\Source\list.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>710</SelStart><SelEnd>710</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\appl_cb.c</Filename><XPos>0</XPos><YPos>484</YPos><SelStart>18330</SelStart><SelEnd>18330</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\appl_spp.c</Filename><XPos>0</XPos><YPos>210</YPos><SelStart>7334</SelStart><SelEnd>7334</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\appl_sdk.c</Filename><XPos>0</XPos><YPos>259</YPos><SelStart>8799</SelStart><SelEnd>8799</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\msp430\msp430_uart.c</Filename><XPos>0</XPos><YPos>156</YPos><SelStart>5370</SelStart><SelEnd>5370</SelEnd></Tab><ActiveTab>18</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\spp\accl_arch\msp430\user_task.c</Filename><XPos>0</XPos><YPos>61</YPos><SelStart>1822</SelStart><SelEnd>1822</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\common_appl\main.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>579</SelStart><SelEnd>579</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\msp430\msp430_uart.h</Filename><XPos>0</XPos><YPos>108</YPos><SelStart>3801</SelStart><SelEnd>3801</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\arch\common\BT_queue.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1056</SelStart><SelEnd>1056</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\common_appl\appl_bt_rf.c</Filename><XPos>0</XPos><YPos>281</YPos><SelStart>8707</SelStart><SelEnd>8707</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\export\accl_appl\accelerometer_pl.c</Filename><XPos>0</XPos><YPos>28</YPos><SelStart>725</SelStart><SelEnd>748</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\private\platforms\spp\accl_arch\msp430\sdk_pl.c</Filename><XPos>0</XPos><YPos>202</YPos><SelStart>5916</SelStart><SelEnd>5916</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-019cf7c0><key>iaridepm.enu1</key></Toolbar-019cf7c0></Sizes></Row0><Row1><Sizes><Toolbar-048299d8><key>debuggergui.enu1</key></Toolbar-048299d8></Sizes></Row1><Row2><Sizes><Toolbar-04829aa0><key>430fet1</key></Toolbar-04829aa0></Sizes></Row2></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>395</Bottom><Right>127</Right><x>-2</x><y>-2</y><xscreen>10</xscreen><yscreen>6</yscreen><sizeHorzCX>7813</sizeHorzCX><sizeHorzCY>8174</sizeHorzCY><sizeVertCX>100781</sizeVertCX><sizeVertCY>540872</sizeVertCY></Rect></Wnd3></Sizes></Row0><Row1><Sizes><Wnd0><Rect><Top>-2</Top><Left>125</Left><Bottom>395</Bottom><Right>325</Right><x>125</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>272480</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>540872</sizeVertCY></Rect></Wnd0></Sizes></Row1></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>395</Bottom><Right>359</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>272480</sizeHorzCY><sizeVertCX>282031</sizeVertCX><sizeVertCY>540872</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>247</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>249</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>339237</sizeHorzCY><sizeVertCX>7813</sizeVertCX><sizeVertCY>8174</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
